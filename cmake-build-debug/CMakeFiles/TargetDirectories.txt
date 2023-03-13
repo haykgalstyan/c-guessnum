@@ -1,0 +1,3 @@
+/home/hayk/CLionProjects/guessnum/cmake-build-debug/CMakeFiles/guessnum.dir
+/home/hayk/CLionProjects/guessnum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hayk/CLionProjects/guessnum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
